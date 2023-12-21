@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of USTC](https://www.ustc.edu.cn/).
+I'm an undergraduate from USTC.
+
+Currently Working Hard.
 
 You can find my CV here: [Jiangshunjia's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
