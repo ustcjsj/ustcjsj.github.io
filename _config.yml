@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Your Name / Site Title"
+title                    : "Jiangshunjia's Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiangshunjia"
 description              : &description "personal description"
 url                      : https://ustcjsj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
